@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BreadMCAuth",
+  "name": "BreadMCAuth",
+  "description": "SSID login Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
